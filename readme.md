@@ -18,10 +18,12 @@ used in the experiments.
 
 [docker-online]: https://hub.docker.com/r/wukefe/edbt21-analysis
 
-On this page, you will see:
+On this page, you will see
 
-- how to run experiments (Section 2); and
-- the results used in the paper (Section 3);
+- experiment setup (Section 2),
+- the experiments on MonetDB (Section 3),
+- the experiments on HorsePower (Section 4), and
+- the results used in the paper (Section 5).
 
 
 ## 2. Experiments
