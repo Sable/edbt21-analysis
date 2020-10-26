@@ -1,0 +1,96 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+[data/in_1M.txt] Loading ...
+[data/in_1M.txt] Loaded in 6.18 s
+[data/in_1M.txt] The average elapsed time with 10 runs (ms): 60.709
+  Columns 1 through 7
+
+    0.0605    0.0608    0.0609    0.0612    0.0613    0.0602    0.0602
+
+  Columns 8 through 10
+
+    0.0605    0.0604    0.0611
+
+Verify top 10 option prices
+    4.7594
+    0.8086
+    3.7146
+    8.5917
+    2.1334
+   10.8956
+   14.4216
+   18.6309
+    1.8150
+    5.8503
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+[data/in_2M.txt] Loading ...
+[data/in_2M.txt] Loaded in 9.44 s
+[data/in_2M.txt] The average elapsed time with 10 runs (ms): 145.033
+  Columns 1 through 7
+
+    0.2686    0.2158    0.1189    0.1162    0.1204    0.1204    0.1222
+
+  Columns 8 through 10
+
+    0.1224    0.1235    0.1220
+
+Verify top 10 option prices
+    4.7594
+    0.8086
+    3.7146
+    8.5917
+    2.1334
+   10.8956
+   14.4216
+   18.6309
+    1.8150
+    5.8503
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+[data/in_4M.txt] Loading ...
+[data/in_4M.txt] Loaded in 15.83 s
+[data/in_4M.txt] The average elapsed time with 10 runs (ms): 491.287
+  Columns 1 through 7
+
+    0.4491    0.4548    0.4610    0.4615    0.4603    0.5232    0.5422
+
+  Columns 8 through 10
+
+    0.4964    0.4738    0.5906
+
+Verify top 10 option prices
+    4.7594
+    0.8086
+    3.7146
+    8.5917
+    2.1334
+   10.8956
+   14.4216
+   18.6309
+    1.8150
+    5.8503
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+[data/in_8M.txt] Loading ...
+[data/in_8M.txt] Loaded in 28.56 s
+[data/in_8M.txt] The average elapsed time with 10 runs (ms): 1008.538
+  Columns 1 through 7
+
+    0.9877    0.9876    1.1844    1.0271    0.9571    0.9641    0.9689
+
+  Columns 8 through 10
+
+    0.9682    1.0892    0.9510
+
+Verify top 10 option prices
+    4.7594
+    0.8086
+    3.7146
+    8.5917
+    2.1334
+   10.8956
+   14.4216
+   18.6309
+    1.8150
+    5.8503
+
