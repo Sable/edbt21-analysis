@@ -89,11 +89,6 @@ sql>SELECT 'Hello world';
 1 tuple (1.328ms)
 ```
 
-Reference
-
-- [How to install MonetDB and the instroduction of server and client programs.](https://www.monetdb.org/Documentation/Guide/Installation)
-
-
 Create and start a datafarm
 
     monetdbd create /path/to/datafarm
@@ -188,9 +183,9 @@ Check NumPy version
     >> python -c "import numpy; print(numpy.version.version)"
     1.13.3
 
-If the version is not the version v1.13.3, you can try
+If the version is not v1.13.3, you can install the specific version.
 
-    pip install -Iv numpy==1.13.3
+    pip install -Iv numpy==1.13.3 --force-reinstall
 
 
 ## <a name="sec3"></a> 3. Experiment: TPC-H SQL Benchmarks
