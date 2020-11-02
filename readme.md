@@ -292,18 +292,28 @@ Two variations
 - MonetDB
 - HorsePower
 
-Directory
+Directory (MonetDB)
 
     experiment/tpch-froid/monetdb
 
-Note: We are working on migrating code to this repository. (Due by Nov. 1)
+Directory (HorsePower)
+
+    experiment/tpch-froid/hir
 
 
 ## <a name="sec6"></a> 6. Experiment: SQL and UDF benchmarks with MATLAB
 
-Directory
+Two variations
+
+- MonetDB
+- HorsePower
+
+Directory (MonetDB)
 
     experiment/bs-query/monetdb
 
-Note: We are working on migrating code to this repository. (Due by Nov. 1)
+Directory (HorsePower)
+
+    experiment/bs-query/hir
+
 
